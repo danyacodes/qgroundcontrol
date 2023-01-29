@@ -3857,7 +3857,7 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/Airmap/AirmapSettings.qml" line="642"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
       <location filename="../src/Airmap/AirmapSettings.qml" line="653"/>
@@ -4215,12 +4215,12 @@ Please place your vehicle in water, click the button, and wait. Note that the th
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation type="unfinished">Поставить на охрану</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/ArmedIndicator.qml" line="25"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation type="unfinished">Снять с охраны</translation>
     </message>
   </context>
   <context>
@@ -4404,7 +4404,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="174"/>
       <source>Temperature</source>
-      <translation type="unfinished">Temperature</translation>
+      <translation type="unfinished">Температура</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/BatteryIndicator.qml" line="175"/>
@@ -5498,7 +5498,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/ExitWithErrorWindow.qml" line="47"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation type="unfinished">Закрыть</translation>
     </message>
   </context>
   <context>
@@ -6756,7 +6756,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Airmap/FlightBrief.qml" line="223"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation type="unfinished">Закрыть</translation>
     </message>
   </context>
   <context>
@@ -7014,7 +7014,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewToolStrip.qml" line="18"/>
       <source>Fly</source>
-      <translation type="unfinished">Fly</translation>
+      <translation type="unfinished">Полет</translation>
     </message>
   </context>
   <context>
@@ -7022,7 +7022,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewToolStripActionList.qml" line="22"/>
       <source>Plan</source>
-      <translation type="unfinished">Plan</translation>
+      <translation type="unfinished">План</translation>
     </message>
   </context>
   <context>
@@ -7030,7 +7030,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/FlyViewVideo.qml" line="68"/>
       <source>Double-click to exit full screen</source>
-      <translation type="unfinished">Double-click to exit full screen</translation>
+      <translation type="unfinished">Двойной клик для выхода из полноэкранного режима</translation>
     </message>
   </context>
   <context>
@@ -7137,47 +7137,47 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="407"/>
       <source>Units</source>
-      <translation type="unfinished">Units</translation>
+      <translation type="unfinished">Единицы измерения</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Area</source>
-      <translation type="unfinished">Area</translation>
+      <translation type="unfinished">Площадь</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Speed</source>
-      <translation type="unfinished">Speed</translation>
+      <translation type="unfinished">Скорость</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="427"/>
       <source>Temperature</source>
-      <translation type="unfinished">Temperature</translation>
+      <translation type="unfinished">Температура</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="444"/>
       <source>Miscellaneous</source>
-      <translation type="unfinished">Miscellaneous</translation>
+      <translation type="unfinished">Разное</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="468"/>
       <source>Language</source>
-      <translation type="unfinished">Language</translation>
+      <translation type="unfinished">Язык</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="479"/>
       <source>Color Scheme</source>
-      <translation type="unfinished">Color Scheme</translation>
+      <translation type="unfinished">Цветовая схема</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="490"/>
       <source>Map Provider</source>
-      <translation type="unfinished">Map Provider</translation>
+      <translation type="unfinished">Поставщик карты</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="510"/>
       <source>Map Type</source>
-      <translation type="unfinished">Map Type</translation>
+      <translation type="unfinished">Тип карты</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="529"/>
@@ -7187,17 +7187,17 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="611"/>
       <source>Mute all audio output</source>
-      <translation type="unfinished">Mute all audio output</translation>
+      <translation type="unfinished">Отключите все аудиовыходы</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="626"/>
       <source>Clear all settings on next start</source>
-      <translation type="unfinished">Clear all settings on next start</translation>
+      <translation type="unfinished">Очистить все настройки при следующем запуске</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="636"/>
       <source>Clear Settings</source>
-      <translation type="unfinished">Clear Settings</translation>
+      <translation type="unfinished">Очистить настройки</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="637"/>
@@ -7244,7 +7244,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="84"/>
       <source>Fly View</source>
-      <translation type="unfinished">Fly View</translation>
+      <translation type="unfinished">Вид полета</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="145"/>
@@ -7294,82 +7294,82 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="103"/>
       <source>Use Preflight Checklist</source>
-      <translation type="unfinished">Use Preflight Checklist</translation>
+      <translation type="unfinished">Использовать предполетный чеклист</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="111"/>
       <source>Enforce Preflight Checklist</source>
-      <translation type="unfinished">Enforce Preflight Checklist</translation>
+      <translation type="unfinished">Обеспечить выполнение предполетного чеклиста</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="120"/>
       <source>Keep Map Centered On Vehicle</source>
-      <translation type="unfinished">Keep Map Centered On Vehicle</translation>
+      <translation type="unfinished">Центровать карту по аппарату</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="128"/>
       <source>Show Telemetry Log Replay Status Bar</source>
-      <translation type="unfinished">Show Telemetry Log Replay Status Bar</translation>
+      <translation type="unfinished">Показать строку состояния воспроизведения лога телеметрии</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="139"/>
       <source>Virtual Joystick</source>
-      <translation type="unfinished">Virtual Joystick</translation>
+      <translation type="unfinished">Виртуальный джойстик</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="153"/>
       <source>Use Vertical Instrument Panel</source>
-      <translation type="unfinished">Use Vertical Instrument Panel</translation>
+      <translation type="unfinished">Использовать вертикальную панель инструментов</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="161"/>
       <source>Show additional heading indicators on Compass</source>
-      <translation type="unfinished">Show additional heading indicators on Compass</translation>
+      <translation type="unfinished">Показать дополнительные индикаторы курса на компасе</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="169"/>
       <source>Lock Compass Nose-Up</source>
-      <translation type="unfinished">Lock Compass Nose-Up</translation>
+      <translation type="unfinished">Заблокировать компас носом вверх</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="216"/>
       <source>Go To Location Max Distance</source>
-      <translation type="unfinished">Go To Location Max Distance</translation>
+      <translation type="unfinished">Перейти к местоположению Максимальное расстояние</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="233"/>
       <source>Video Settings</source>
-      <translation type="unfinished">Video Settings</translation>
+      <translation type="unfinished">Настройки видео</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="240"/>
       <source>Source</source>
-      <translation type="unfinished">Source</translation>
+      <translation type="unfinished">Источник</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="296"/>
       <source>File Format</source>
-      <translation type="unfinished">File Format</translation>
+      <translation type="unfinished">Формат файла</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="318"/>
       <source>Video decode priority</source>
-      <translation type="unfinished">Video decode priority</translation>
+      <translation type="unfinished">Приоритет декодирования видео</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="345"/>
       <source>Auto-Delete Saved Recordings</source>
-      <translation type="unfinished">Auto-Delete Saved Recordings</translation>
+      <translation type="unfinished">Автоматическое удаление сохраненных записей</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="356"/>
       <source>Plan View</source>
-      <translation type="unfinished">Plan View</translation>
+      <translation type="unfinished">Вид плана</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="378"/>
       <source>Default Mission Altitude</source>
-      <translation type="unfinished">Default Mission Altitude</translation>
+      <translation type="unfinished">Высота полета по умолчанию</translation>
     </message>
     <message>
       <location filename="../src/ui/preferences/GeneralSettings.qml" line="384"/>
@@ -7860,27 +7860,27 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="37"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation type="unfinished">Поставить на охрану</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="39"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation type="unfinished">Снять с охраны</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="40"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation type="unfinished">Назад</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="41"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation type="unfinished">Взлет</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="42"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation type="unfinished">Посадка</translation>
     </message>
     <message>
       <location filename="../src/FlightDisplay/GuidedActionsController.qml" line="43"/>
@@ -8252,12 +8252,12 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/Joystick/Joystick.cc" line="45"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation type="unfinished">Поставить на охрану</translation>
     </message>
     <message>
       <location filename="../src/Joystick/Joystick.cc" line="46"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation type="unfinished">Снять с охраны</translation>
     </message>
     <message>
       <location filename="../src/Joystick/Joystick.cc" line="47"/>
@@ -9109,7 +9109,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/QmlControls/LogReplayStatusBar.qml" line="110"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation type="unfinished">Закрыть</translation>
     </message>
   </context>
   <context>
@@ -9564,7 +9564,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
       <source>Disarm</source>
-      <translation type="unfinished">Disarm</translation>
+      <translation type="unfinished">Снять с охраны</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
@@ -9574,7 +9574,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="173"/>
       <source>Arm</source>
-      <translation type="unfinished">Arm</translation>
+      <translation type="unfinished">Поставить на охрану</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainStatusIndicator.qml" line="241"/>
@@ -9592,7 +9592,7 @@ Click Ok to start the auto-tuning process.
     <message>
       <location filename="../src/ui/toolbar/MainToolBar.qml" line="201"/>
       <source>Downloading</source>
-      <translation type="unfinished">Downloading</translation>
+      <translation type="unfinished">Загрузка</translation>
     </message>
     <message>
       <location filename="../src/ui/toolbar/MainToolBar.qml" line="209"/>
@@ -10737,7 +10737,7 @@ Is this really what you want?</translation>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1209"/>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="1289"/>
       <source>Close</source>
-      <translation type="unfinished">Close</translation>
+      <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
       <location filename="../src/QtLocationPlugin/QMLControl/OfflineMap.qml" line="625"/>
@@ -11203,7 +11203,7 @@ Is this really what you want?</translation>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="82"/>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="82"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation type="unfinished">Назад</translation>
     </message>
     <message>
       <location filename="../src/AutoPilotPlugins/PX4/PX4AdvancedFlightModes.qml" line="83"/>
@@ -11319,7 +11319,7 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="45"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation type="unfinished">Взлет</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="46"/>
@@ -11334,12 +11334,12 @@ Is this really what you want?</translation>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="48"/>
       <source>Return</source>
-      <translation type="unfinished">Return</translation>
+      <translation type="unfinished">Назад</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="49"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation type="unfinished">Посадка</translation>
     </message>
     <message>
       <location filename="../src/FirmwarePlugin/PX4/PX4FirmwarePlugin.cc" line="50"/>
@@ -12892,7 +12892,7 @@ Note that this will also completely reset everything, including UAVCAN nodes, al
       <location filename="../src/PlanView/PlanView.qml" line="619"/>
       <location filename="../src/PlanView/PlanView.qml" line="785"/>
       <source>Plan</source>
-      <translation type="unfinished">Plan</translation>
+      <translation type="unfinished">План</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="121"/>
@@ -12991,7 +12991,7 @@ Click &apos;Ok&apos; to upload the Plan anyway.</translation>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="698"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation type="unfinished">Посадка</translation>
     </message>
     <message>
       <location filename="../src/PlanView/PlanView.qml" line="817"/>
@@ -16076,7 +16076,7 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="78"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation type="unfinished">Взлет</translation>
     </message>
     <message>
       <location filename="../src/PlanView/SimpleItemEditor.qml" line="79"/>
@@ -16144,12 +16144,12 @@ ROTATION_NONE indicates component points in direction of flight.</translation>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="410"/>
       <source>Takeoff</source>
-      <translation type="unfinished">Takeoff</translation>
+      <translation type="unfinished">Взлет</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="412"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation type="unfinished">Посадка</translation>
     </message>
     <message>
       <location filename="../src/MissionManager/SimpleMissionItem.cc" line="414"/>
@@ -17489,7 +17489,7 @@ Confirm change?</translation>
     <message>
       <location filename="../src/PlanView/VTOLLandingPatternMapVisual.qml" line="259"/>
       <source>Land</source>
-      <translation type="unfinished">Land</translation>
+      <translation type="unfinished">Посадка</translation>
     </message>
   </context>
   <context>
@@ -18001,7 +18001,7 @@ Confirm change?</translation>
     <message>
       <location filename="../src/AnalyzeView/VibrationPage.qml" line="165"/>
       <source>Not Available</source>
-      <translation type="unfinished">Not Available</translation>
+      <translation type="unfinished">Недоступно</translation>
     </message>
   </context>
   <context>
